@@ -6,6 +6,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
 Create an LSTM-based Recurrent Neural Network model to predict stock prices.Using google stock price to predict the future value using RNN model.
+
 ![image](https://github.com/praveenst13/rnn-stock-price-prediction/assets/118787793/567317b1-b8f5-470b-96e2-6f666eb80b5c)
 
 
@@ -27,7 +28,7 @@ Fine-tune the model and hyperparameters based on performance on the validation s
 ## Program
 #### Name:Praveen s
 #### Register Number:212222240077
-```
+```py
 
 import numpy as np
 import matplotlib.pyplot as plt
